@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to zhangyi's documentation!
-======================================================
-
 数据结构与算法
 -----------------------
 
