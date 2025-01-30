@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Data-Intensive_Application'
+project = 'Knowledge Notebook'
 copyright = '2025, zhangyi'
 author = 'zhangyi'
 release = '0.0.1'
