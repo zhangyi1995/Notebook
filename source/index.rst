@@ -3,14 +3,33 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Data-Intensive_Application's documentation!
+Welcome to zhangyi's documentation!
 ======================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+数据结构与算法
+-----------------------
 
-   my_doc.md
+.. toctree::
+   :maxdepth: 1
+
+   dir_datatype/my_doc.md
+
+性能优化
+-----------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   perf/doc_perf.md
+
+工具部署
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   tools/doc_tools.md
 
 Indices and tables
 ==================
