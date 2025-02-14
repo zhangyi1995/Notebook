@@ -34,7 +34,7 @@
 .. toctree::
    :maxdepth: 1
 
-   daily/doc_tools.md
+   daily/doc_daily.md
 
 Indices and tables
 ==================
