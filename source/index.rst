@@ -28,6 +28,14 @@
 
    tools/doc_tools.md
 
+日常杂记
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   daily/doc_tools.md
+
 Indices and tables
 ==================
 
